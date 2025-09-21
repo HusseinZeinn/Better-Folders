@@ -1,3 +1,6 @@
+![Better Folders](https://github.com/user-attachments/assets/2c98da5d-c5ef-44c2-bfd3-63a82bbfc806)
+
+
 # Better-Folders
 A powerful, intelligent file organization tool that automatically sorts files into categorized folders with Windows startup support and background processing capabilities.
 
