@@ -35,7 +35,7 @@ A powerful, intelligent file organization tool that automatically sorts files in
 
 ## 🛠️ Installation
 
-### Option 1: Download Pre-built Executable
+### Download Pre-built Executable
 1. Buy `BetterFolders.exe` from the link : https://checkout.dodopayments.com/buy/pdt_Af8ZmL9aDSMppIplw01se?quantity=1
 2. Run the executable
 3. Configure your folders and categories through the GUI
